@@ -11,6 +11,7 @@ namespace ABC_Car_Traders_by_Mohanatheesan_E227421.Classes
 {
     internal class Parts : DBClass
     {
+        // Attributes
         public int partID { get; set; }
         public string partName { get; set; }
         public string description { get; set; }
