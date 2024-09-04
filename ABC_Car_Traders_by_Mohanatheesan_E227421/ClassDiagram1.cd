@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ABC_Car_Traders_by_Mohanatheesan_E227421.Classes.DBClass">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAQAAAAAAAAgWAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\DBClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_Car_Traders_by_Mohanatheesan_E227421.Classes.Cars">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEFRAAAAwAAAAAAKgAAAAAAAAAAAIAAAEAAAAAIAAA=</HashCode>
+      <FileName>Classes\Cars.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_Car_Traders_by_Mohanatheesan_E227421.Classes.Order">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAEAEAIAAAABAAAEAAAAAAAAgAAEAAAAAGAAAA=</HashCode>
+      <FileName>Classes\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_Car_Traders_by_Mohanatheesan_E227421.Classes.Parts">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAQAgAAAAAAAIAAAAAAAAAAAAKAAAACAAABAAAA=</HashCode>
+      <FileName>Classes\Parts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_Car_Traders_by_Mohanatheesan_E227421.Classes.Users">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAEDAAAAAEAAQAAAQAgAAAQAgACAQE=</HashCode>
+      <FileName>Classes\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
