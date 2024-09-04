@@ -18,7 +18,7 @@ namespace ABC_Car_Traders_by_Mohanatheesan_E227421.Classes
         public decimal price { get; set; }
         public int stock { get; set; }
 
-
+        // Methodsds
         public bool InsertPart()
         {
             string sqlChk = "SELECT * from tblParts where partName = '" + partName + "' and  price = '" + price + "' and active = '1'";
